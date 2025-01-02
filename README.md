@@ -8,7 +8,7 @@ Find out more:
 
 👉 [Harrier Case Study](https://harrier.github.io/case-study)
 
-👉 [My Website](https://jessekercheval.com)
+👉 [My Website](http://jessekercheval.com)
 
 <!--
 - 🔭 I’m currently working on ...
