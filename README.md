@@ -1,10 +1,16 @@
-## Hi there 👋
+### Hi! I'm Jesse. 👋 
+
+I'm a full stack software engineer based in Los Angeles, CA.
+I use my experience in international wholesales to write efficient, maintainable code and simplify complex problems.
+Recently, I created [Harrier](https://harrier.github.io/), an open-source tool for setting up self-hosted GitHub Actions runners and persistent cache in your AWS cloud.
+
+Find out more:
+
+👉 [Harrier Case Study](https://harrier.github.io/case-study)
+
+👉 [My Website](https://jessekercheval.com)
 
 <!--
-**jessekerch/jessekerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
