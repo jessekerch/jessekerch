@@ -1,7 +1,7 @@
 ### Hi! I'm Jesse. 👋 
 
-I'm a full stack software engineer based in Los Angeles, CA.
-I use my experience in international wholesales to write efficient, maintainable code and simplify complex problems.
+I'm a full stack software engineer based in Los Angeles, CA. I use my past experience in international logistics and consulting to quickly break down and contribute to codebases, simplify complex systems, and stay highly organized.
+
 Recently, I created [Harrier](https://harrier.github.io/), an open-source tool for setting up self-hosted GitHub Actions runners and persistent cache in your AWS cloud.
 
 Find out more:
