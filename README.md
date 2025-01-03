@@ -2,8 +2,10 @@
 
 I'm a full stack software engineer based in Los Angeles, CA. I use my past experience in international logistics and consulting to quickly break down and contribute to codebases, simplify complex systems, and stay highly organized.
 
+### Harrier Self-hosted Runner Setup Tool
 Recently, I created [Harrier](https://harrier.github.io/), an open-source tool for setting up self-hosted GitHub Actions runners and persistent cache in your AWS cloud.
 
+### Tech Stack 
 | Category | Technologies |
 | --- | --- |
 | Programming Languages | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) |
