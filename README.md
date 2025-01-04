@@ -13,7 +13,7 @@ Recently, I created [Harrier](https://harrier.github.io/), an open-source tool f
 | Databases | ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat) |
 | Cloud Services | ![Amazon Web Services Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat) ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat) |
 | Testing | ![Vitest Badge](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=flat) ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat) |
-| CI/CD | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-231F20?logo=githubactions&logoColor=fff&style=flat) ![Harrier Badge](https://custom-icon-badges.demolab.com/badge/Harrier-D5D8DC?logo=harrier-logo&logoColor=white) |
+| CI/CD | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-231F20?logo=githubactions&logoColor=fff&style=flat) ![Harrier Badge](https://custom-icon-badges.demolab.com/badge/Harrier-D5D8DC?logo=harrier-logo&logoColor=white) |
 | Other | ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat) |
 
 
