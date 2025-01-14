@@ -3,7 +3,7 @@
 I'm a full stack software engineer based in Los Angeles, CA. I use my past experience in international logistics and consulting to quickly break down and contribute to codebases, simplify complex systems, and stay highly organized.
 
 ### Harrier Self-hosted Runner Setup Tool
-Recently, I created [Harrier](https://harrier.github.io/), an open-source tool for setting up self-hosted GitHub Actions runners and persistent cache in your AWS cloud.
+Recently, I created [Harrier](https://harrier-gha-runner.github.io/), an open-source tool for setting up self-hosted GitHub Actions runners and persistent cache in your AWS cloud.
 
 ### Tech Stack 
 | Category | Technologies |
