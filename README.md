@@ -1,9 +1,12 @@
 ### Hi! I'm Jesse. 👋 
 
-I'm a full stack software engineer based in Los Angeles, CA. I use my past experience in international logistics and consulting to quickly break down and contribute to codebases, simplify complex systems, and stay highly organized.
+I'm a full stack software engineer based in Los Angeles, CA. I'm most experienced in modern web frameworks, networked applications, and cloud computing. I love diving into new challenges, prototyping, and quickly contributing to evolving codebases.
+
+My drive for exploration and learning has also taken me around the world many times, I lived in Japan for over 10 years, and speak Japanese fluently.
+When I'm not programming, I'm in the ocean or at a campsite with my wife and kids.
 
 ### Harrier Self-hosted Runner Setup Tool
-Recently, I created [Harrier](https://harrier-gha-runner.github.io/), an open-source tool for setting up self-hosted GitHub Actions runners and persistent cache in your AWS cloud.
+Recently, I created [Harrier](https://harrier-gha-runner.github.io/), an open-source tool for setting up self-hosted GitHub Actions runners and persistent cache in your AWS cloud. It was a serious project in a well-known engineering problem domain, and my team was really excited about our solution!
 
 ### Tech Stack 
 | Category | Technologies |
