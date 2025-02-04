@@ -5,7 +5,7 @@ I'm a full stack software engineer based in Los Angeles, CA. I'm most experience
 My drive for exploration and learning has also taken me around the world many times, I lived in Japan for over 10 years, and speak Japanese fluently.
 When I'm not programming, I'm in the ocean or at a campsite with my wife and kids.
 
-### Most recent project => Harrier
+### Harrier
 Recently, I created [Harrier](https://harrier-gha-runner.github.io/), an open-source tool for setting up self-hosted GitHub Actions runners and persistent cache in your AWS cloud. It was a serious project in a well-known engineering problem domain, and my team was really excited about our solution!
 
 ### Tech Stack 
